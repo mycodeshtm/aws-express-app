@@ -1,3 +1,0 @@
-dilke kefale ertst <template tdLoading="loadingTemplateRef" tdLoadingType="circular" tdLoadingMode="determinate" tdLoadingStrategy="replace">
-    
-</template>
